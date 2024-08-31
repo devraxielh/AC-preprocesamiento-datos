@@ -1,0 +1,52 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal de la limpieza de datos?",
+        "options": [
+            "Optimizar el rendimiento del sistema",
+            "Eliminar o corregir errores y inconsistencias en los datos",
+            "Reducir el tamaño de los datos",
+            "Aumentar la velocidad de procesamiento"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué técnica se usa comúnmente para manejar valores faltantes en un conjunto de datos?",
+        "options": [
+            "Imputación de valores",
+            "Normalización de datos",
+            "Compresión de datos",
+            "Escalado de características"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "¿Qué representa la detección de valores atípicos en la limpieza de datos?",
+        "options": [
+            "Identificación de patrones ocultos",
+            "Identificación de valores que se desvían significativamente del resto de los datos",
+            "Reformateo de los datos",
+            "Reducción del tamaño de los datos"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes es una técnica para eliminar duplicados en un conjunto de datos?",
+        "options": [
+            "Filtrado",
+            "Agrupamiento",
+            "Remoción de registros repetidos",
+            "Clasificación de datos"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una etapa en el proceso de limpieza de datos?",
+        "options": [
+            "Detección de errores",
+            "Corrección de inconsistencias",
+            "Entrenamiento del modelo",
+            "Imputación de valores faltantes"
+        ],
+        "correctAnswer": 2
+    }
+]

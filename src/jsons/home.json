@@ -1,0 +1,9 @@
+{
+    "imageSrc": "./assets/limpieza_datos.png",
+    "imageAlt": "Imagen de Limpieza de Datos",
+    "title": "¿Qué es la Limpieza de Datos?",
+    "description": [
+        "La limpieza de datos es un proceso fundamental en la ciencia de datos y el análisis de datos que consiste en identificar y corregir errores o inconsistencias en un conjunto de datos. Este proceso asegura que los datos sean precisos, completos y adecuados para su uso en modelos de Machine Learning, análisis estadísticos y toma de decisiones informadas.",
+        "La limpieza de datos incluye actividades como la eliminación de duplicados, la imputación de valores faltantes, la corrección de errores de formato, y el manejo de valores atípicos. Este proceso es crucial porque la calidad de los datos impacta directamente en la precisión y efectividad de cualquier análisis o modelo que se base en ellos. Una limpieza adecuada de los datos ayuda a garantizar que los resultados obtenidos sean confiables y válidos, convirtiendo este proceso en un pilar esencial en cualquier proyecto de análisis de datos."
+    ]
+}

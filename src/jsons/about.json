@@ -1,0 +1,16 @@
+{
+    "title": "Acerca de",
+    "imageSrc": "./assets/yo.png",
+    "imageAlt": "Rodrigo Garcia",
+    "name": "Rodrigo García, PhD",
+    "sectionTitle": "Objeto Virtual de Aprendizaje: Limpieza de Datos",
+    "description": "Este Objeto Virtual de Aprendizaje (OVA) está diseñado para proporcionar una comprensión integral de los conceptos fundamentales en la limpieza de datos, una etapa crítica en el procesamiento de datos y análisis de datos, especialmente en ciencia de datos y machine learning.",
+    "structureTitle": "El OVA se estructura en cuatro secciones principales:",
+    "structure": [
+        "Teoría: Explica los fundamentos teóricos y metodológicos de la limpieza de datos, incluyendo técnicas comunes como la imputación, eliminación de duplicados y manejo de valores atípicos.",
+        "Animación: Proporciona una visualización interactiva de los procesos de limpieza de datos en conjuntos de datos de diferentes tipos y tamaños.",
+        "Evaluación: Permite a los usuarios poner a prueba sus conocimientos adquiridos a través de ejercicios prácticos y cuestionarios.",
+        "Acerca de: Ofrece información sobre el OVA y sus objetivos educativos, así como sobre el creador del contenido."
+    ],
+    "targetAudience": "Este OVA está dirigido a estudiantes de ingeniería, ciencias de la computación, y profesionales interesados en la ciencia de datos y la inteligencia artificial. Su objetivo es facilitar el aprendizaje autónomo y proporcionar una experiencia educativa interactiva y enriquecedora."
+}
