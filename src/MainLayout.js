@@ -19,7 +19,6 @@ const MainLayout = ({ appName, activeSection, setActiveSection, renderContent })
         </nav>
         <main className="flex-grow p-4">
             <div className="max-w-6xl mx-auto">
-            <h2 className="text-2xl font-bold mb-4 text-center">{appName}</h2>
             {renderContent()}
             </div>
         </main>
